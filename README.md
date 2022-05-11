@@ -7,7 +7,6 @@ Classifies an image as containing either a dog or a cat (using Kaggle's <a href=
 - PyTorch / Torchvision
 - Numpy
 - PIL
-- CUDA
 
 ## Data
 
@@ -24,5 +23,3 @@ The data directory structure I used was:
     * test
       * test
 
-## Performance
-The result of the notebook in this repo produced a log loss score on Kaggle's hidden dataset of 0.04988 -- further gains can probably be achieved by creating an ensemble of classifiers using this approach. 
