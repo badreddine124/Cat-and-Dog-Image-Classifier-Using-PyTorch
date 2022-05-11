@@ -1,5 +1,5 @@
-# Cat-and-Dog-Image-Classifier-Using-PyTorch
-### PyTorch Image Classification
+# Building an Image Classification of Dog/Cat Dataset implemented by Convolutional Neural Network (CNN)
+
 
 Classifies an image as containing either a dog or a cat (using Kaggle's <a href="https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data">public dataset</a>), but could easily be extended to other image classification problems.
 
@@ -23,3 +23,8 @@ The data directory structure I used was:
     * test
       * test
 
+<<<<<<< HEAD
+## Model Perfomance Sumary
+Our model has the accuracy of 97.79 % for the train dataset and 97.32 % for the test dataset.
+=======
+>>>>>>> 9945335609ec0029344815a4133e8e62ce0c6904
