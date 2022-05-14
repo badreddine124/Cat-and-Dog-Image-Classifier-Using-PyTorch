@@ -4,9 +4,9 @@
 Classifies an image as containing either a dog or a cat (using Kaggle's <a href="https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data">public dataset</a>), but could easily be extended to other image classification problems.
 
 ### Dependencies:
-- PyTorch / Torchvision
+- tensorflow 
 - Numpy
-- PIL
+- keras
 
 ## Data
 
